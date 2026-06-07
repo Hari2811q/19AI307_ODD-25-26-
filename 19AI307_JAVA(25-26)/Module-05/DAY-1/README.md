@@ -1,4 +1,4 @@
-**# Ex.No:5(A) INPUTSTREAMREADER 
+##  Ex.No:5(A) INPUTSTREAMREADER 
 
 ## QUESTION:
 Write a program to demonstrate chaining of streams (BufferedReader on top of InputStreamReader on top of System.in)
