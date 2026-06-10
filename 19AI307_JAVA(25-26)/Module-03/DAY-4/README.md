@@ -43,8 +43,8 @@ To implement different weather-prediction bots using a common interface and gene
  ```
 /*
 Program to implement a Interface using Java
-Developed by: SINGAMALA VENKATA SAI KUMAR REDDY
-RegisterNumber: 212223230208
+Developed by:HARIPRASATH.R
+RegisterNumber:212223040059
 */
 ```
 
