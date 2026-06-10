@@ -50,8 +50,8 @@ To implement an abstract class Employee with a method calculatePay() and extend 
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: SINGAMALA VENKATA SAI KUMAR REDDY
-RegisterNumber: 212223230208
+Developed by:HARIPRASATH.R
+RegisterNumber:212223040059
 */
 ```
 
