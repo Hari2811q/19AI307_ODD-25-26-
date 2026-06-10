@@ -37,8 +37,8 @@ To demonstrate accessing a private inner class in Java through a public method o
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: SINGAMALA VENKATA SAI KUMAR REDDY
-RegisterNumber: 212223230208
+Developed by:HARIPRASATH.R
+RegisterNumber:212223040059
 */
 ```
 
